@@ -26,7 +26,7 @@ Design
 
 Results
 -------
-Offline crawling takes about 30 minutes. The data in database is distributed as in the graph.
+Offline crawling takes about 30 minutes. Data in the database is distributed as in the graph.
 
 |data|
 
